@@ -11,7 +11,7 @@ int main()
     int ouro=10;
     int local;
     int valido;
-    /*Contextualização do jogo*/
+    /*Contextualização do jogo.*/
     printf("\n───────────────────⋆⋅𖤓⋅⋆──────────────────\n");
     printf("\n⋆˚꩜｡ Era uma noite comum. Você estava em casa jogando seu jogo favorito, Elphame. \n");
     printf("\n⋆˚꩜｡ Ao atravessar um portal mágico dentro do jogo, algo inesperado aconteceu. Uma força misteriosa o puxou para dentro dele.\n");
